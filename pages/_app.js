@@ -27,7 +27,7 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/*====== Title ======*/}
-        <title>Gadden - Garden &amp; Landscaping React NextJS Template</title>
+        <title>San Diego Custom Backyard and Landscaping - Landscaping Services in San Diego</title>
         {/*====== Favicon Icon ======*/}
         <link
           rel="shortcut icon"

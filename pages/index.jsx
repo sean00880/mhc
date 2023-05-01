@@ -34,10 +34,10 @@ const Index2 = () => {
                         data-animation="fadeInUp"
                         data-delay=".34"
                       >
-                        Beautiful Gardening
+                        Personalized Landscaping
                       </span>
                       <h1 data-animation="fadeInDown" data-delay=".5s">
-                        Gardening &amp; Landscape
+                        Professional Lawn Care Services in San Diego
                       </h1>
                       <div
                         className="hero-button mb-30"
@@ -90,11 +90,12 @@ const Index2 = () => {
                         data-animation="fadeInUp"
                         data-delay=".4s"
                       >
-                        Beautiful Gardening
+                          Personalized Landscaping
                       </span>
                       <h1 data-animation="fadeInDown" data-delay=".5s">
-                        Gardening &amp; Landscape
+                        Professional Lawn Care Services in San Diego
                       </h1>
+                    
                       <div
                         className="hero-button mb-30"
                         data-animation="fadeInDown"
@@ -142,10 +143,10 @@ const Index2 = () => {
                         data-animation="fadeInUp"
                         data-delay=".4s"
                       >
-                        Beautiful Gardening
+                          Personalized Landscaping
                       </span>
                       <h1 data-animation="fadeInDown" data-delay=".5s">
-                        Gardening &amp; Landscape
+                        Professional Lawn Care Services in San Diego
                       </h1>
                       <div
                         className="hero-button mb-30"

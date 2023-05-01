@@ -15,7 +15,7 @@ const ServiceDetails = () => {
               <div className="service-info-wrapper pr-lg-40 wow fadeInDown">
                 <h1 className="title">Tree/Shrub Care Services in San Diego, CA</h1>
                 <p>
-                Introducing Tree and Shrub Care by [xxxxxx], a comprehensive service designed to maintain and enhance the health, appearance, and longevity of your valuable green assets. Our landscaping experts are dedicated to providing exceptional care for the trees and shrubs that make your landscape truly remarkable.</p>
+                Introducing Tree and Shrub Care by San Diego Custom Backyard & Landscaping, a comprehensive service designed to maintain and enhance the health, appearance, and longevity of your valuable green assets. Our landscaping experts are dedicated to providing exceptional care for the trees and shrubs that make your landscape truly remarkable.</p>
                 <div className="block-image wow fadeInDown">
                   <img
                     src="assets/images/service/pruning.jpg"
@@ -50,7 +50,7 @@ const ServiceDetails = () => {
                   <h3 id="maintanance" style={{'paddingTop':'100px', 'marginTop':'-100px'}}>Seasonal Maintanance</h3>
                 <p>Our comprehensive seasonal care plans address the unique needs of your trees and shrubs throughout the year, ensuring their long-term health and beauty.</p>
                 
-                <p>At [Landscaping Business Name], we understand that your trees and shrubs are an integral part of your landscape's charm and value. Trust our experienced team to deliver the specialized care your green assets deserve. Contact us today to schedule a consultation and learn more about our Tree and Shrub Care services.</p>  
+                <p>At San Diego Custom Backyard & Landscaping, we understand that your trees and shrubs are an integral part of your landscape's charm and value. Trust our experienced team to deliver the specialized care your green assets deserve. Contact us today to schedule a consultation and learn more about our Tree and Shrub Care services.</p>  
                   <div className="process-wrapper p-r z-1 wow fadeInUp">
                   <div className="shape line-shape">
                     <span>
@@ -127,19 +127,7 @@ const ServiceDetails = () => {
                     </li>
                   </ul>
                 </div>
-                <div className="sidebar-widget widget-banner mb-30 wow fadeInUp">
-                  <div className="banner-content text-white">
-                    <h3 className="title">Looking For Special Gardener!</h3>
-                    <p>You’re in right place</p>
-                    <Link legacyBehavior href="/contact">
-                      <a className="main-btn secondary-btn">Contact Us</a>
-                    </Link>
-                    <img
-                      src="assets/images/sidebar/b-w-1.png"
-                      alt="Banner Image"
-                    />
-                  </div>
-                </div>
+                 
               
               </div>
             </div>

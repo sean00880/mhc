@@ -217,7 +217,7 @@ const Index2 = () => {
                 <div className="section-title mb-30">
                   <span className="sub-title">
                     <i className="flaticon-plant" />
-                    About Oren's Landscaping LLC
+                    About 'San Diego Custom Backyard & Landscaping & Landscaping'
                   </span>
                   <h2>Committed to Providing Exceptional Lawn Care in San Diego, CA</h2>
                 </div>
@@ -272,7 +272,7 @@ const Index2 = () => {
                       <a>Mowing</a>
                     </Link>
                   </h4>
-                  <p>Sed ut perspiciatis omnisey natus voluptate accusa</p>
+                  <p>Utilizing state-of-the-art equipment, we guarantee a clean, even cut for a well-manicured appearance that enhances the overall aesthetic of your property.</p>
                   <Link legacyBehavior href="/mowing">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -295,7 +295,7 @@ const Index2 = () => {
                       <a>Blowing</a>
                     </Link>
                   </h4>
-                  <p>Quis autem reprehe volutate esse quam molestiae</p>
+                  <p>Our team will carefully remove or mulch grass clippings according to your preferences, promoting a healthier lawn and preventing unsightly buildup.</p>
                   <Link legacyBehavior href="/blowing">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -318,7 +318,7 @@ const Index2 = () => {
                       <a>Trimming/Pruning</a>
                     </Link>
                   </h4>
-                  <p>Quis autem reprehe volutate esse quam molestiae</p>
+                  <p>We use industry-approved techniques to prune your trees and shrubs, promoting healthy growth, improving their appearance and overall health.</p>
                   <Link legacyBehavior href="/tree-shrub-care">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -341,7 +341,7 @@ const Index2 = () => {
                       <a>Edging</a>
                     </Link>
                   </h4>
-                  <p>Quis autem reprehe volutate esse quam molestiae</p>
+                  <p>We pay close attention to detail, edging around trees, flowerbeds, sidewalks, driveways, fences, etc. to ensure a perfect finishing touch.</p>
                   <Link legacyBehavior href="/edging">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -364,7 +364,7 @@ const Index2 = () => {
                       <a>Mulching</a>
                     </Link>
                   </h4>
-                  <p>We denounce with righteous indignation and dislike</p>
+                  <p>Our skilled team will apply high grade mulch evenly and efficiently and at the appropriate depth, while carefully avoiding damage to your plants and trees.</p>
                   <Link legacyBehavior href="/mulching">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -387,7 +387,7 @@ const Index2 = () => {
                       <a>Hardscaping</a>
                     </Link>
                   </h4>
-                  <p>To take triviale exam which undertakes laborious</p>
+                  <p>We work meticulously to create stunning, durable, and low-maintenance hardscape features that seamlessly integrate with your property's natural surroundings.</p>
                   <Link legacyBehavior href="/hardscaping">
                     <a className="icon-btn">
                       <i className="fal fa-long-arrow-right" />
@@ -426,7 +426,7 @@ const Index2 = () => {
                     </div>
                     <div className="text">
                       <h4 className="title">Request a Quote</h4>
-                      <p>Sed ut perspiciatis omnis volunteer accusa</p>
+                      <p>Get in touch with us to get started</p>
                     
                     </div>
                   </div>
@@ -442,7 +442,7 @@ const Index2 = () => {
                     </div>
                     <div className="text">
                       <h4 className="title">Schedule a Visit</h4>
-                      <p>Sed ut perspiciatis omnis volunteer accusa</p>
+                      <p>Schedule your first appointment with us</p>
                       
                     </div>
                   </div>
@@ -458,7 +458,7 @@ const Index2 = () => {
                     </div>
                     <div className="text">
                       <h4 className="title">Landscaping Begins</h4>
-                      <p>Sed ut perspiciatis omnis volunteer accusa</p>
+                      <p>We begin working on your lawn care needs</p>
                     
                     </div>
                   </div>
@@ -641,7 +641,7 @@ At our landscaping business, we take pride in our values and strive to uphold th
       </section>
       {/*====== End Gallery Section ======*/}
         {/*====== Start Contact section ======*/}
-        <section className="contact-section pt-95 pb-50">
+        <section className="contact-section pt-95 pb-50" id="contact">
         <div className="container">
           <div className="row">
             <div className="col-lg-5">

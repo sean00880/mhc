@@ -38,7 +38,7 @@ const Default = () => {
                 <h4 className="widget-title">Get In Touch</h4>
                 <div className="widget-content">
                   <ul className="info-list">
-                    <li>1234 Independent St,  San Diego, California</li>
+                    <li>1234 Independent St, San Diego, California</li>
                     <li>
                       <a href="mailto:support@gmail.com">support@gmail.com</a>
                     </li>
@@ -101,25 +101,11 @@ const Default = () => {
             <div className="col-lg-6">
               {/*====== Copyright Text ======*/}
               <div className="copyright-text">
-                <p>Copy© 2023 Gadden. All Rights Reserved.</p>
+                <p>Copy© 2023 San Diego Custom Backyard & Landscaping. All Rights Reserved.</p>
+                <p>Website developed by Site Dominion LLC | https://www.sitedominion.com/ </p>
               </div>
             </div>
-            <div className="col-lg-6">
-              {/*====== Copyright Nav ======*/}
-              <div className="copyright-nav float-lg-right">
-                <ul>
-                  <li>
-                    <a href="#">Setting &amp; Privacy</a>
-                  </li>
-                  <li>
-                    <a href="#">Faqs</a>
-                  </li>
-                  <li>
-                    <a href="#">Food Menu</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>

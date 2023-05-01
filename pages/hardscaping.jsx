@@ -94,19 +94,7 @@ const ServiceDetails = () => {
                     </li>
                   </ul>
                 </div>
-                <div className="sidebar-widget widget-banner mb-30 wow fadeInUp">
-                  <div className="banner-content text-white">
-                    <h3 className="title">Looking For Special Gardener!</h3>
-                    <p>You’re in right place</p>
-                    <Link legacyBehavior href="/contact">
-                      <a className="main-btn secondary-btn">Contact Us</a>
-                    </Link>
-                    <img
-                      src="assets/images/sidebar/b-w-1.png"
-                      alt="Banner Image"
-                    />
-                  </div>
-                </div>
+                 
                 
               </div>
             </div>

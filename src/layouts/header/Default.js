@@ -134,7 +134,7 @@ const Default = () => {
                 <Menu />
                 {/*====== Menu Button ======*/}
                 <div className="menu-button mt-40 d-xl-none">
-                  <Link legacyBehavior href="/contact">
+                  <Link legacyBehavior href="/#contact">
                     <a className="main-btn secondary-btn">Get a Quote</a>
                   </Link>
                 </div>

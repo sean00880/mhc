@@ -2,6 +2,8 @@ import Preloader from "@/src/layouts/Preloader";
 import Head from "next/head";
 import { Fragment, useEffect, useState } from "react";
 import "/styles/globals.css";
+import "@fontsource/abel"
+
 const App = ({ Component, pageProps }) => {
   const [loading, setLoading] = useState(true);
   useEffect(() => {
@@ -33,6 +35,7 @@ const App = ({ Component, pageProps }) => {
           type="image/png"
         />
         {/*====== Google Fonts ======*/}
+       
         <link
           href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap"
           rel="stylesheet"

@@ -18,7 +18,7 @@ const ServiceDetails = () => {
                 <p>
                 Mulching is an essential element of any successful landscaping plan, providing numerous benefits such as weed control, moisture retention, temperature regulation, and soil enrichment. Our expert team selects the ideal mulch type for your specific needs, whether it's organic materials like bark, wood chips, or straw, or inorganic options like rubber or gravel.
                 </p><p>
-At San Diego Landscaping Pros, we are dedicated to delivering exceptional mulching services that contribute to the flourishing of your outdoor spaces. Our knowledgeable staff will skillfully apply mulch to your garden beds or landscaped areas, ensuring a consistent and visually appealing layer that promotes optimal plant growth and soil health.
+At San Diego Custom Backyard & Landscaping, we are dedicated to delivering exceptional mulching services that contribute to the flourishing of your outdoor spaces. Our knowledgeable staff will skillfully apply mulch to your garden beds or landscaped areas, ensuring a consistent and visually appealing layer that promotes optimal plant growth and soil health.
 </p>
                 <div className="row">
                   <div className="col-12">
@@ -98,19 +98,7 @@ At San Diego Landscaping Pros, we are dedicated to delivering exceptional mulchi
                     </li>
                   </ul>
                 </div>
-                <div className="sidebar-widget widget-banner mb-30 wow fadeInUp">
-                  <div className="banner-content text-white">
-                    <h3 className="title">Looking For Special Gardener!</h3>
-                    <p>You’re in right place</p>
-                    <Link legacyBehavior href="/contact">
-                      <a className="main-btn secondary-btn">Contact Us</a>
-                    </Link>
-                    <img
-                      src="assets/images/sidebar/b-w-1.png"
-                      alt="Banner Image"
-                    />
-                  </div>
-                </div>
+                 
                 
               </div>
             </div>

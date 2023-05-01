@@ -15,9 +15,9 @@ const ServiceDetails = () => {
               <div className="service-info-wrapper pr-lg-40 wow fadeInDown">
               <h1>Edging in San Diego, CA</h1>
               <hr />
-               <p>Introducing our premium edging services at [xxxxxx], where we create clean, defined borders to elevate the appearance and functionality of your outdoor spaces. Our expert team is committed to delivering impeccable results that showcase your landscape's true potential.</p>
-                <p>Introducing our premium edging services at San Diego Landscaping Pros, where we create clean, defined borders to elevate the appearance and functionality of your outdoor spaces. Our expert team is committed to delivering impeccable results that showcase your landscape's true potential.</p>
-                <p>Choose [xxxxxx] for your edging needs and experience the transformative impact of our tailored solutions. Contact us today to schedule a consultation, and let us help you create a stunning, well-organized landscape that stands the test of time.</p>
+               <p>Introducing our premium edging services at San Diego Custom Backyard & Landscaping, where we create clean, defined borders to elevate the appearance and functionality of your outdoor spaces. Our expert team is committed to delivering impeccable results that showcase your landscape's true potential.</p>
+                
+                <p>Choose San Diego Custom Backyard & Landscaping for your edging needs and experience the transformative impact of our tailored solutions. Contact us today to schedule a consultation, and let us help you create a stunning, well-organized landscape that stands the test of time.</p>
                 <div className="row">
                   <div className="col-12">
                     <div className="block-image wow fadeInLeft">
@@ -96,19 +96,7 @@ const ServiceDetails = () => {
                     </li>
                   </ul>
                 </div>
-                <div className="sidebar-widget widget-banner mb-30 wow fadeInUp">
-                  <div className="banner-content text-white">
-                    <h3 className="title">Looking For Special Gardener!</h3>
-                    <p>You’re in right place</p>
-                    <Link legacyBehavior href="/contact">
-                      <a className="main-btn secondary-btn">Contact Us</a>
-                    </Link>
-                    <img
-                      src="assets/images/sidebar/b-w-1.png"
-                      alt="Banner Image"
-                    />
-                  </div>
-                </div>
+                 
                 
               </div>
             </div>

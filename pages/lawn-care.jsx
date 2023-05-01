@@ -25,7 +25,7 @@ const ServiceDetails = () => {
                 </div>
                 <h2>Personalized Care</h2>
                 <p>
-                At [xxxxxx], we believe in providing exceptional service and taking the time to understand your unique lawn care needs. We offer customized lawn care plans that are tailored to your specific requirements and budget. Our team is friendly, knowledgeable, and committed to ensuring that you are satisfied with the services we provide.
+                At San Diego Custom Backyard & Landscaping & Landscaping, we believe in providing exceptional service and taking the time to understand your unique lawn care needs. We offer customized lawn care plans that are tailored to your specific requirements and budget. Our team is friendly, knowledgeable, and committed to ensuring that you are satisfied with the services we provide.
                 </p>
                 
                 <h3  id="mowing" style={{'paddingTop':'100px', 'marginTop':'-100px'}}>Mowing</h3>
@@ -81,7 +81,7 @@ We understand the importance of proper mowing techniques to maintain a healthy a
                 Our experienced team employs eco-friendly, sustainable methods to target and remove weeds while protecting the native flora and fauna of San Diego. We utilize both pre-emergent and post-emergent treatments to prevent weed growth and control existing infestations.
                 </p>
                 <p>
-                Trust [xxxxxx] to deliver outstanding weed control services tailored to your unique needs in San Diego, CA. Together, we'll create a thriving and weed-free landscape that enhances the beauty of your property.
+                Trust San Diego Custom Backyard & Landscaping & Landscaping to deliver outstanding weed control services tailored to your unique needs in San Diego, CA. Together, we'll create a thriving and weed-free landscape that enhances the beauty of your property.
                 </p>
                 <h3>Mulching</h3>
                 <p>
@@ -131,19 +131,7 @@ At San Diego Landscaping Pros, we are dedicated to delivering exceptional mulchi
                     </li>
                   </ul>
                 </div>
-                <div className="sidebar-widget widget-banner mb-30 wow fadeInUp">
-                  <div className="banner-content text-white">
-                    <h3 className="title">Looking For Special Gardener!</h3>
-                    <p>You’re in right place</p>
-                    <Link legacyBehavior href="/contact">
-                      <a className="main-btn secondary-btn">Contact Us</a>
-                    </Link>
-                    <img
-                      src="assets/images/sidebar/b-w-1.png"
-                      alt="Banner Image"
-                    />
-                  </div>
-                </div>
+                 
                 
               </div>
             </div>

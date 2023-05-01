@@ -11,7 +11,7 @@ const Menu = () => {
           
         </li>
         <li className="menu-item">
-          <Link legacyBehavior href="#about">
+          <Link legacyBehavior href="/#about">
             About
           </Link>
         </li>
@@ -56,17 +56,17 @@ const Menu = () => {
           </ul>
         </li>
         <li className="menu-item">
-          <Link legacyBehavior href="#process">
+          <Link legacyBehavior href="/#process">
             Process
           </Link>
         </li>
         <li className="menu-item">
-          <Link legacyBehavior href="#whychooseus">
+          <Link legacyBehavior href="/#whychooseus">
             Why Choose Us
           </Link>
         </li>
         <li className="menu-item">
-          <Link legacyBehavior href="#testimonials">
+          <Link legacyBehavior href="/#testimonials">
             Testimonials
           </Link>
         </li>
